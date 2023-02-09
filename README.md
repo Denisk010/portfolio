@@ -7,4 +7,4 @@
 
 ***
 
-<https://i.imgur.com/dZC8L40.jpeg>
+<img/logo.jpg>
