@@ -1,9 +1,9 @@
 # Hello everyone!
 ---
 
-### My nickname is Den010
+### My nickname is Denisk010
 ### I'am a student, and I like programming!
-### See you in global projects :-)
+#### See you in global projects :-)
 
 ***
-# ![My startup At](img/logo.JPG) ITforU
+# ![My startup Project](img/logo.JPG)
