@@ -7,4 +7,4 @@
 
 ***
 
-[mylogo]:https://imgur.com/dZC8L40
+<https://imgur.com/dZC8L40>
